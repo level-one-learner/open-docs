@@ -9,3 +9,5 @@ A list of essential applications.
 * [fzf](https://github.com/junegunn/fzf)
 * [Podman Desktop](https://podman-desktop.io/)
 * [Rust](https://rustup.rs/)
+* [Python](https://docs.brew.sh/Homebrew-and-Python)
+* [Pyenv](https://github.com/pyenv/pyenv?tab=readme-ov-file#homebrew-in-macos)
