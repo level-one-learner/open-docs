@@ -18,6 +18,7 @@ General:
 
 ```json
 # Rust
+    "editor.inlayHints.enabled": "offUnlessPressed",
     "rust-analyzer.check.command": "clippy",
     "rust-analyzer.checkOnSave": true,
 
