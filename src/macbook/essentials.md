@@ -7,7 +7,7 @@ A list of essential applications.
 * [iTerm2](https://iterm2.com/)
 * [Oh My Zsh!](https://ohmyz.sh/)
 * [fzf](https://github.com/junegunn/fzf)
-* [Podman Desktop](https://podman-desktop.io/)
+* [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 * [Rust](https://rustup.rs/)
 * [Python](https://docs.brew.sh/Homebrew-and-Python)
 * [Pyenv](https://github.com/pyenv/pyenv?tab=readme-ov-file#homebrew-in-macos)
